@@ -1,0 +1,23 @@
+.SelectedContainer {
+    /* position: absolute; */
+    width: 100%;
+    height: 30vw;
+    background-color:#e9c4c4;
+    border: 1.5px solid #ffffff;
+    border-radius: 25px;
+    margin-top: 3vw;
+}
+
+.ProductImg{
+    margin-top: 2vw;
+    margin-left: 2vw;
+    width: 26vw;
+    height: 26vw;
+    border-radius: 50%;
+}
+
+.FlowerCake {
+    height: 26vw;
+    position: absolute;
+    border-radius: 50%;
+}

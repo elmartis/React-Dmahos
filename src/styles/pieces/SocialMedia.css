@@ -1,0 +1,15 @@
+.IconContainer {
+    display: flex;
+    display: row;
+    width: 20vw;
+    height: 8vw;
+    margin-top: 162vw;
+    margin-left: 5%;
+}
+
+.Ref {
+    width: 8vw;
+    height: 8vw;
+    padding-right: 3vw;
+}
+

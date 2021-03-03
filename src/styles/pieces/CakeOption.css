@@ -1,0 +1,15 @@
+.CakeOption {
+    width: 40vw;
+    height: 10vw;
+    background-color: white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.Titulo {
+    position: absolute;
+    width: 40vw;
+    margin-top: 2.3vw;
+    font-weight: bold;
+    font-size: 4.5vw;
+}

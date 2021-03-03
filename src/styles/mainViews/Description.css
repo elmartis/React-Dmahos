@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+.Rectangle {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: #f7af9d;
+    border: 1px solid #f7af9d;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.DescriptionContainer {
+    text-align: center;
+    border: 1.5px solid #ffffff;
+    position: absolute;
+    width: 90vw;
+    margin-left: 5vw;
+    margin-top: 38vw;
+    height: 115vw;
+    background-color: #e9c4c4;
+    border-radius: 30px;
+    z-index: 2;
+}
+
+.ImgProduct {
+    width: 30vw;
+    height: 30vw;
+    border-radius: 50%;
+    margin-top: 2vw;
+}
+
+.ProductTitle {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 6vw;
+    text-align: center;
+    margin-top:1vw;
+}
+
+.DescriptionText {
+    font-size: 5.5vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.ProductPriceContainer {
+    position: relative;
+    height: 12.5vw;
+    width: 70vw;
+    margin-top: -10vw;
+}
+
+.LinkMenu {
+    text-decoration: none;
+}

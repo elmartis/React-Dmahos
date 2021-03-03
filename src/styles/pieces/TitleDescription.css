@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+.ContainerTitle {
+    position: absolute;
+    width: 70vw;
+    background-color: #e9c4c4;
+    height: 10vw;
+    border-radius: 30px;
+    border: 1.5px solid #ffffff;
+    margin-top: 20vw;
+    margin-left: 15vw;
+    text-align: center;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 6vw;
+    padding-top: 3vw;
+    z-index: 2;
+}

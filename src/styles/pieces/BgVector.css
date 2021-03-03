@@ -1,0 +1,10 @@
+.ImageContainer {
+    z-index: 0;
+    max-width: 100vw;
+    height: 200px;
+    top: 0px;
+}
+
+.VectorBg {
+    width: 100%;
+}

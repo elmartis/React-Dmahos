@@ -1,0 +1,17 @@
+.HalfCircle {
+    position: absolute;
+    width: 50vw;
+    height: 50vw;
+    background: rgb(250, 212, 59);
+    border: 1px solid rgb(250, 212, 59);
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-top: -25vw;
+    z-index: 1;
+}
+
+.logoDmahos{
+    height: 159%;
+    margin-left: -27%;
+    margin-top: -48%;;
+}
